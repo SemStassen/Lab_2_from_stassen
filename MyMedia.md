@@ -17,3 +17,13 @@ I hope they can give you a better insight on me as a person and developer.
 | Climate Denial: A measured response | HBomberGuy provides fascinating, humorous and intelligent insights intate the brains of climate deniars. He sticks to the facts and tries to relate to both sides of the argument. | HBomberGuy |
 | Creative coding for Beginners | This video holds a special place in my heart because it was my first real introduction to (creative) programming. Shiffman teaches coding in a clear, interactive and funny way, keeping my interest high all the way to the end. | TheCodingTrain |
 | Sapiens | As a long time history nerd, Harari provides a short (for history) but complete view of most of human history. There is some needed context missing here and there, but for anyone wanting to understand more about how we got where we are today, this is a great read! | yuvah Noah Harari | 
+
+---
+
+## Some important quotes
+
+> “One of history’s few iron laws is that luxuries tend to become necessities and to spawn new obligations.” 
+-*Yuvah Noah Harari*
+
+> “We suffer more often in imagination than in reality.” 
+-*Seneca*
