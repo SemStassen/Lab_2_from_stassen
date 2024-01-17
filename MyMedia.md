@@ -4,3 +4,7 @@ My favourite song at the moment, because it changes quite often, is "A divebar n
 An up and coming band from Chicago, currently touring all over the US.
 
 ![A picture of me, Sem Stassen](Me.jpg)
+
+---
+
+## My favourite media
