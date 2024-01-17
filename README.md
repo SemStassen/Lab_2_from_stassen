@@ -14,3 +14,9 @@ A local restaurant in my hometown Elsloo, serving delicious **local foods** as w
 1. Pavlova
 2. Chicken satay
 3. Vegetable lasagna
+
+### places to visit
+- The Duijker
+- Castle Elsloo
+- The old town centre
+- Castle park
