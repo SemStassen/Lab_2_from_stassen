@@ -27,3 +27,15 @@ I hope they can give you a better insight on me as a person and developer.
 
 > “We suffer more often in imagination than in reality.” 
 -*Seneca*
+
+---
+
+## Code fencing
+
+The following code snippet showcases how to convert JSON to an object in the Dart language.
+
+``` Dart
+import 'dart:convert';
+
+JsonDecoder().convert(yourJson)
+```
